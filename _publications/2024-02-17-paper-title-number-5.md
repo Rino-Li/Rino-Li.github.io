@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper optimizes the cooperation of UAVs and the scheduling process of tasks.'
 date: 2024-12-10
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/Multi_UAV_Cooperation_and_Tasks_Scheduling_Optimization.pdf'
+venue: 'IEEE Transactions on Computers'
+paperurl: 'https://rino-li.github.io//files/Multi_UAV_Cooperation_and_Tasks_Scheduling_Optimization.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
