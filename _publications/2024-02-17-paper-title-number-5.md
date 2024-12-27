@@ -12,4 +12,4 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 
 Please click the link or figure to get more information: [](https://ieeexplore.ieee.org/abstract/document/10723779)
 
-![Scenario](https://pic.imgdb.cn/item/676ea941d0e0a243d4ebc460.jpg#pic_center =600x600)(https://ieeexplore.ieee.org/abstract/document/10723779)
+[![Scenario](https://pic.imgdb.cn/item/676ea941d0e0a243d4ebc460.jpg#pic_center =600x600)](https://ieeexplore.ieee.org/abstract/document/10723779)
