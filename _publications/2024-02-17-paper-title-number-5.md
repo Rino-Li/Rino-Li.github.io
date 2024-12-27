@@ -10,8 +10,6 @@ paperurl: 'https://rino-li.github.io//files/Multi_UAV_Cooperation_and_Tasks_Sche
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-|Format|Citation|
-| ----------- | ----------- |
-| GB/T 7714| Zhao L, Li S, Tan Z, et al. A Multi-UAV Cooperative Task Scheduling in Dynamic Environments: Throughput Maximization[J]. IEEE Transactions on Computers, 2024.|
-| BibTex   | @article{zhao2024multi, <br> &emsp;&emsp;&emsp; title={A Multi-UAV Cooperative Task Scheduling in Dynamic Environments: Throughput Maximization}, <br> &emsp;&emsp;&emsp;author={Zhao, Liang and Li, Shuo and Tan, Zhiyuan and Hawbani, Ammar and Timotheou, Stelios and Yu, Keping}, <br>&emsp;&emsp;&emsp; journal={IEEE Transactions on Computers}, <br> &emsp;&emsp;&emsp;year={2024}, <br>&emsp;&emsp;&emsp; publisher={IEEE}<br>}        |
-![这是rino的图片](https://pic.imgdb.cn/item/676ea941d0e0a243d4ebc460.jpg "Magic Gardens")
+Please click the link or figure to get more information: [](https://ieeexplore.ieee.org/abstract/document/10723779)
+
+![Scenario](https://pic.imgdb.cn/item/676ea941d0e0a243d4ebc460.jpg#pic_center =600x600)(https://ieeexplore.ieee.org/abstract/document/10723779)
