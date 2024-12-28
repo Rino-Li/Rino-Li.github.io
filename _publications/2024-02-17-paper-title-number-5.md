@@ -2,7 +2,7 @@
 title: "A Multi-UAV Cooperative Task Scheduling in Dynamic Environments: Throughput Maximization"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This paper optimizes the cooperation of UAVs and the scheduling process of tasks.'
 date: 2024-12-10
 venue: 'IEEE Transactions on Computers'
