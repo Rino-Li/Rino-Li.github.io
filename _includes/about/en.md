@@ -1,7 +1,13 @@
 Hi, I'm Lishuo(a.k.a. _Rino_), I want to be a super programmer. I received my bachelor's degree in [Zaozhuang University](https://www.uzz.edu.cn/) and my master's degree in [Shenyang Aerospace University](https://www.sau.edu.cn/) under the supervision of Professor [Zhao Liang](https://yjs.sau.edu.cn/info/1009/1284.htm). I am currently studying for my PhD at [Tianjin University](https://www.tju.edu.cn/) under the guidance of Professor [Qiu Tie](https://smartiotlab.net/Team). My research interests include edge computing, iot topology optimization, digital twins, reinforcement learning, and deep learning.
 I like [photography](https://huaban.com/boards/95208810). 
 
-##### Appearence
+##### Journal
+
+- Zhao L, Li S, Tan Z, et al. A Multi-UAV Cooperative Task Scheduling in Dynamic Environments: Throughput Maximization[J]. IEEE Transactions on Computers, 2024.
+
+- Zhao L, Li S, Guan Y, et al. Adaptive multi-UAV trajectory planning leveraging digital twin technology for urban IIoT applications[J]. IEEE Transactions on Network Science and Engineering, 2023.
+
+##### Conference
 
 - International Conference on Communication Software and Networks · Presenter · 2023
 
